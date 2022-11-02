@@ -12,3 +12,6 @@ Berikut adalah hasil perankingan
 
 ![data-ranking-user](https://user-images.githubusercontent.com/107298659/199424572-a13ae3f2-428b-42c0-813f-f921f03de8bf.png)
 
+Berikut tampilan dashboard untuk user admin showroom
+
+![data-mobil-admin](https://user-images.githubusercontent.com/107298659/199425626-9bdcdd73-26a6-4f3c-9fbd-d3d1cacdebfd.png)
