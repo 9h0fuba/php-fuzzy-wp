@@ -6,7 +6,7 @@ Adalah aplikasi untuk menentukan mobil terbaik dari setiap alternatif yang dipil
 
 User menginputkan data mobil 
 
-![menentukan-alternatif](https://user-images.githubusercontent.com/107298659/199425344-11dfe4af-8e69-44df-bc9a-bfe25b9e5520.png)
+<img width="955" alt="image" src="https://user-images.githubusercontent.com/107298659/206353650-facb094e-a01c-4c37-ae95-643fbad063bf.png">
 
 Berikut adalah hasil perankingan
 
